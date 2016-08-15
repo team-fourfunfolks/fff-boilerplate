@@ -20,12 +20,12 @@ __Git Together__ is a D3 visualization of a team-based Git workflow that updates
 
 ## Developing
 
-First watch files
+First watch files 
 ```
-npm run dev
+npm run watch
 ```
 
-Start app
+Then in new tab, start app
 ```
 npm start
 ```
